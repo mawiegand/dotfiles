@@ -65,6 +65,7 @@ ZSH_THEME="robbyrussell"
 plugins=(
   git
   ssh-agent
+  tmux
 )
 
 # ssh-agent plugin settings
